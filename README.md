@@ -1,4 +1,4 @@
-#This is to practice Figma to Code  
+### This is to practice Figma to Code  
 -simpleCard
 
 ![](images/simpleCard.png)
